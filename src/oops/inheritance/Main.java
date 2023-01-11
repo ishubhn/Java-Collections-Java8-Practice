@@ -11,12 +11,12 @@ public class Main {
    */
 
 	public static void main(String[] args) {
-		TwoWheeler ve = new TwoWheeler();
-		System.out.println("Two Wheeler");
-//		((TwoWheeler) ve).getWheels();
-		ve.blowHorn();
-		ve.getWheels();
-		ve.fillFuel();
+//		TwoWheeler ve = new TwoWheeler();
+//		System.out.println("Two Wheeler");
+////		((TwoWheeler) ve).getWheels();
+//		ve.blowHorn();
+//		ve.getWheels();
+//		ve.fillFuel();
 
 		System.out.println();
 		System.out.println("Electric Vehicle");

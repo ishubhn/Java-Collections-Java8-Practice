@@ -13,12 +13,22 @@ public class MapExample {
 		map.put(3, "Ruchi");
 		map.put(2, "Arnav");
 
-		Iterator iterator = map.keySet().iterator();
+//		Iterator iterator = map.keySet().iterator();
+//
+//		while (iterator.hasNext()) {
+//			System.out.print(map.get(iterator.next()));
+////			System.out.println(map.get(iterator.next()));
+//		}
 
-		while (iterator.hasNext()) {
-			System.out.print(map.get(iterator.next()));
-//			System.out.println(map.get(iterator.next()));
-		}
+//		Iterator it = map.values().iterator();
+//
+//		while (it.hasNext()) {
+//
+//		}
+
+
+
+
 	}
 }
 
