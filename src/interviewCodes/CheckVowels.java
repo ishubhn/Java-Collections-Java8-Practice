@@ -7,7 +7,7 @@ public class CheckVowels {
 	}
 
 	public static void main(String[] args) {
-		String h = "Hll";
+		String h = "Hlla";
 
 		System.out.println(checkVowels(h));
 	}

@@ -16,7 +16,7 @@ public class Palindrome {
 	}
 
 	public static void main(String[] args) {
-		String i = "ioiu";
+		String i = "ioi";
 
 		System.out.println(isPalindrome(i));
 	}
